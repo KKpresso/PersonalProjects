@@ -1,2 +1,2 @@
-# PersonalProjects
-Personal projects in my own time and learning
+# Projects
+Projects in my own time, learning, and instruction.
