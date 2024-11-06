@@ -1,2 +1,2 @@
-# PersonalProjects
-Personal projects in my own time and learning
+# KotlinPersonalProjects
+Personal projects in my own time and learning involving Kotlin
